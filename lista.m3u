@@ -1,10 +1,8 @@
 ﻿#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Dcine.png" group-title="CINE",C+ DCine
-rtmp://208.43.33.101/live playpath=papapolo?id=9578 conn=S:OK swfUrl=http://www.streamify.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.streamify.tv
+rtmp://208.43.33.101/live playpath=papapolo?id=9578 swfUrl=http://www.streamify.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.streamify.tv Conn=S:OK --live
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Dcine.png" group-title="CINE",C+ DCine
-rtmp://208.101.9.155/live playpath=papapolo?id=9578 conn=S:OK swfUrl=http://www.streamify.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.streamify.tv
+rtmp://208.101.9.155/live playpath=papapolo?id=9578 swfUrl=http://www.streamify.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.streamify.tv Conn=S:OK --live
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Canal%20%2B%20Dcine.png" group-title="CINE",C+ DCine
-rtmp://aragontvlivefs.fplive.net/aragontvlive-live/stream_normal_abt playpath=stream_normal_abt swfUrl=http://www.jaxe.net/player/player-old.swf?file=stream_normal_abt&type=flv&streamer=r tmp://aragontvlivefs.fplive.net/aragontvlive-live&autostart=true&stretching=exactfit&mute=false &skin=http://www.jaxe.net/player/dangdang.swf live=1 pageUrl=http://cinestrenos-tv2.webs.com/canales%20autonomicos/aragontv.htm
